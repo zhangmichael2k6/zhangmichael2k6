@@ -7,15 +7,16 @@ I am actually a Chinese people, but i am currently live in Vietnam. So I conside
 I Love C/C++, and currently studying Python.
 
 Fuck JavaScript!!!
-'''c++
+
+```c++
 #include <iostream>
 
 int main(){
   std::cout<<"Fuck JavaScript!" ;
   return 0 ;
 }
-'''
+```
 
-'''python
+```python
 print("Fuck JavaScript!")
-'''
+```
