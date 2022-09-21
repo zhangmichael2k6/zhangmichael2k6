@@ -1,24 +1,21 @@
-Hi all those Fuckers !
+Hello ! Xin chào ! 你好 !
 
-My name is Michael !
+My name is Michael
 
-I'm a vietnamese & chinese !
+I am actually a Chinese people, but i am currently live in Vietnam. So I consider myself as a Chinese & Vietnamese.
 
-I love C++ !
+I Love C/C++, and currently studying Python.
 
-Fuck to haters who hate C++ !!!
-
-```c++
+Fuck JavaScript!!!
+'''c++
 #include <iostream>
 
 int main(){
-  std::cout<<"Fuck you haters" ; 
-  return 0 ; 
+  std::cout<<"Fuck JavaScript!" ;
+  return 0 ;
 }
-```
-:middle_finger::middle_finger::middle_finger::middle_finger::middle_finger::middle_finger::middle_finger::middle_finger::middle_finger::middle_finger::middle_finger:
+'''
 
-<!---
-zhangmichael2k6/zhangmichael2k6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+'''python
+print("Fuck JavaScript!")
+'''
