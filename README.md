@@ -4,7 +4,7 @@ My name is Michael
 
 I am actually a Chinese, but i am currently live in Vietnam. So I consider myself as a Chinese & Vietnamese.
 
-I Love C/C++, and currently studying Python.
+I currently learn C++ and Python.
 
 Fuck JavaScript!!!
 
