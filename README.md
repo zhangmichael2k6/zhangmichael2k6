@@ -1,3 +1,2 @@
-# 肏你妈呀！你给我滚开！
-# Cái con đĩ mẹ mày! Mày cút cho tao!
-# You son of the bitch! Get your fucking twat out of here!
+哈咯！我是张耀颖。我是越南华人。希望我在Github可以学到东西！谢谢！
+Chào! Tôi là Zhang Yao Ying! Tôi là người Việt gốc Hoa. Rất mong tôi có thể học được nhiều điều bổ ích trên trên Github! Cảm ơn!
